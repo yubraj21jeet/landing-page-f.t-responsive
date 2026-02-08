@@ -1,5 +1,7 @@
 # landing-page-f.t-responsive
+
 **Disclaimer: This website is hosted on an orchids.cloud server. While currently fully functional, please note that it is undergoing active optimization**
+
 Vire Track: Interstellar Asteroid Tracker & Risk Analyser
 Team Name
 Overnight Learners
